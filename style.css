@@ -521,9 +521,11 @@ textarea {
 .sobre-topo {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 60px;
+  gap: 60px;
     align-items: center;
 }
+
+
 
 .imagem-sobre img {
   width: 100%;
